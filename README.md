@@ -1,6 +1,9 @@
 # weather_app
 
-
+Weather Api link: https://www.weatherapi.com/
+Lottie website: https://lottiefiles.com/
+Lottie Package: https://pub.dev/packages/lottie
+Http Package: https://pub.dev/packages/http 
 
 
 
